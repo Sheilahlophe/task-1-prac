@@ -1,0 +1,1 @@
+purpose of a shell is to accept text command translate to system and return to human with readable results, I've learned the easy way to communicate with the computor, using the terminal gives an easy access to folders and programs
