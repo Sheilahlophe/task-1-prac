@@ -1,0 +1,60 @@
+1  node -v
+    2  vs -v
+    3  mkdir hello-world
+    4  cd hello-world
+    5  touch index.js
+    6  echo 'console.log("hello world");'>index.js
+    7  git init
+    8  git add.
+    9  git add
+   10  git add .
+   11  node -v
+   12  mkdir hello world
+   13  cd hello-world
+   14  touch index.js
+   15  echo 'console.log("hello world");' > index.js
+   16  git init
+   17  git add .
+   18  git commit -m "Add hello.js with hello world"
+   19  mkdir hello-world
+   20  cd hello-world
+   21  touch index.js
+   22  echo 'console.log("hello-world");' > index.js
+   23  git init
+   24  git add .
+   25  git commit -m "add hello.js with hello-world"
+   26  git remote add origin https://github.com/Sheilahlophe/hello-world.git
+   27  git push origin master
+   28  git clone https://github.com/Sheilahlophe/task-1-prac.git
+   29  cd task-1-prac
+   30  code .
+   31  echo "the shell is my translator to the OS"
+   32  pwd
+   33  ls
+   34  touch documents
+   35  cd documents
+   36  mkdir documents
+   37  cd documents
+   38  mkdir documents
+   39  cd documents
+   40  mkdir documents
+   41  cd documents
+   42  c ..
+   43  cd ..
+   44  touch shell_intro.sh:
+   45  nano shell_intro.sh
+   46  chmod +x shell_intro.sh
+   47  ./shell_intro.sh
+   48  touch reflection.txt
+   49  echo "purpose of a shell is to accept text command translate to system and return to human with readable results, I've learned the easy way to communicate with the computor, using the terminal gives an easy access to folders and programs" > reflection.txt
+   50  ls
+   51  git add .
+   52  git commit -m "completed shell architecture hands-on tasks"
+   53  git push main
+   54  git init
+   55  git push main
+   56  git pull origin main
+   57  git commit -m "completed shell architecture hands-on tasks"
+   58  git push main
+   59  git push
+   60  history
